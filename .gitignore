@@ -26,3 +26,9 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+.DS_Store
+bower_components
+.tmp
+tmp
+dist
